@@ -1,7 +1,7 @@
 {
-  "name": "wtf-webpack-starterkit",
+  "name": "leszekjanczewski-github-io",
   "version": "1.0.1",
-  "description": "WTF Webpack starterkit",
+  "description": "Projekt strony domowej na github",
   "main": "index.js",
   "private": true,
   "scripts": {
@@ -14,7 +14,7 @@
     "Webpack",
     "boilerplate"
   ],
-  "author": "Maciek Korsan",
+  "author": "Leszek Janczewski",
   "license": "ISC",
   "devDependencies": {
     "@babel/core": "^7.10.1",
