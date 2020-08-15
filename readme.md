@@ -1,12 +1,14 @@
-![cover](https://cotenfrontend.pl/img/cover.png)
+![cover]https://leszekjanczewski.github.io/img/og-leszek.png)
 
-# WTF Webpack Starter Kit 
+# Leszek Janczewski - Junior Java FullStack Developer
 
-Simple toolkit for your static websites development.
+My simple portfolio website with github projects and skills.
 
-## How to use it?
-
-Click on `Use this template` button to generate a new repository based on this starter kit. After that clone it to your computer, go to the project directory in console and type `npm install`.
+## TOOLS
+- WTF Webpack starterkit
+- HTML + CSS + JS
+- Github API
+- CSS Grid
 
 ## Available scripts
 
