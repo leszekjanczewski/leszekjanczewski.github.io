@@ -99,7 +99,7 @@
   row-gap: 24px;
   max-width: 1184px;
   margin: 0 auto;
-  @media (min-width: $tablet) {
+  @media (min-width: $desktop) {
     grid-template-columns: 1fr 1fr;
   }
 }

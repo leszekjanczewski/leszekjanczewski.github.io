@@ -2,9 +2,11 @@
   list-style-type: none;
   padding: 0;
   display: flex;
-  align-items: center;
   justify-content: center;
   margin: 56px 64px;
+  @media (min-width: $desktop) {
+    margin: 0;
+  }
   &__item {
     margin: 0 12px;
   }
