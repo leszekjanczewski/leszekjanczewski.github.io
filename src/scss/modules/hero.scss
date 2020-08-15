@@ -4,6 +4,9 @@
     max-width: 768px;
     margin: 0 auto;
   }
+  @media (min-width: $desktop) {
+    max-width: 100%;
+  }
   &__bubble {
     position: absolute;
     left: calc(50% + 90px);
@@ -22,6 +25,27 @@
   }
   &__description {
     text-align: center;
+    @media (min-width: $desktop) {
+      max-width: 786px;
+      margin: 0 auto;
+      position: relative;
+      &::before, &::after {
+        width: 82.94px;
+        height: 254.88px;
+        content: '';
+        display: block;
+        position: absolute;
+        top: 0;
+      }
+      &::before {
+        background: url('../assets/img/left.svg');
+        right: 100%;
+      }
+      &::after {
+        background: url('../assets/img/right.svg');
+        left: 100%;
+      }
+    }
   }
   &__header {
     font-size: 26px;
@@ -91,5 +115,6 @@
   }
   &__special {
     color: $blue;
+    white-space: nowrap;
   }
 }
