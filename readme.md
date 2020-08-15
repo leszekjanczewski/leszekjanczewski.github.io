@@ -1,4 +1,4 @@
-![cover]https://leszekjanczewski.github.io/img/og-leszek.png)
+![cover](https://leszekjanczewski.github.io/img/og-leszek.png)
 
 # Leszek Janczewski - Junior Java FullStack Developer
 
